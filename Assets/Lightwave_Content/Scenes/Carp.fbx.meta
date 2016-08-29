@@ -1,0 +1,130 @@
+fileFormatVersion: 2
+guid: 2800a3afa3ee745808478e2f7019b719
+timeCreated: 1472393181
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Carp
+    100004: //RootNode
+    100006: Carp_mesh
+    100008: Light
+    100010: ROOT_(1)
+    100012: ROOT_(10)
+    100014: ROOT_(11)
+    100016: ROOT_(12)
+    100018: ROOT_(13)
+    100020: ROOT_(14)
+    100022: ROOT_(15)
+    100024: ROOT_(16)
+    100026: ROOT_(17)
+    100028: ROOT_(18)
+    100030: ROOT_(19)
+    100032: ROOT_(2)
+    100034: ROOT_(20)
+    100036: ROOT_(21)
+    100038: ROOT_(22)
+    100040: ROOT_(23)
+    100042: ROOT_(3)
+    100044: ROOT_(4)
+    100046: ROOT_(5)
+    100048: ROOT_(6)
+    100050: ROOT_(7)
+    100052: ROOT_(8)
+    100054: ROOT_(9)
+    400000: Camera
+    400002: Carp
+    400004: //RootNode
+    400006: Carp_mesh
+    400008: Light
+    400010: ROOT_(1)
+    400012: ROOT_(10)
+    400014: ROOT_(11)
+    400016: ROOT_(12)
+    400018: ROOT_(13)
+    400020: ROOT_(14)
+    400022: ROOT_(15)
+    400024: ROOT_(16)
+    400026: ROOT_(17)
+    400028: ROOT_(18)
+    400030: ROOT_(19)
+    400032: ROOT_(2)
+    400034: ROOT_(20)
+    400036: ROOT_(21)
+    400038: ROOT_(22)
+    400040: ROOT_(23)
+    400042: ROOT_(3)
+    400044: ROOT_(4)
+    400046: ROOT_(5)
+    400048: ROOT_(6)
+    400050: ROOT_(7)
+    400052: ROOT_(8)
+    400054: ROOT_(9)
+    4300000: Carp_mesh
+    9500000: //RootNode
+    13700000: Carp_mesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
